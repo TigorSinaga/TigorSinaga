@@ -6,7 +6,7 @@
 
 👀 I'm deeply interested in Music and Technology, especially how both can intersect to create meaningful digital experiences.<br>🌱 Currently focusing on improving my skills in Frontend Development and modern web technologies.
 
-## 🌐 Socials:
+## 🌐 Reach me on:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tigorsnaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tigor-n-sinaga) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xyzgore)
 
