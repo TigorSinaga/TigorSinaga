@@ -1,4 +1,4 @@
-![Tigor](\img\fix2.png)
+![Tigor](img/fix2.png)
 
 ## Hi everyone! I'm Tigor Neilson Sinaga 👋
 
