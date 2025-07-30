@@ -39,11 +39,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- ![Hello](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3drcWZ6YWljM3prOXU0bDF3eXRicDAzMnI0NjdremkxaXFhZWo0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif)
